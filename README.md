@@ -1,5 +1,6 @@
-![Whispering...](https://github.githubassets.com/images/mona-whisper.gif "octocat-whisper" =48x48)![Framed Picture](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/209/frame-with-picture_1f5bc.png "framed-picture" =24x24) \~( ͡o ͜ʖ ͡O)kS
-> You found a secret! **zirs3d/zirs3d** is a ✨*special*✨ repository that you can use to add a `README.md` to your GitHub profile. Make sure it’s public and initialize it with a **README** to get started.
+![Whispering...](https://github.githubassets.com/images/mona-whisper.gif "octocat-whisper")
+![Framed Picture](https://i.imgur.com/gd5oEpSs.png "framed-picture") \~( ͡o ͜ʖ ͡O)kS
+> You found a secret! **this** is a ✨*special*✨ repository that you can use to add a `README.md` to your GitHub profile. Make sure it’s public and initialize it with a **README** to get started.
 
 # Hi there 👋
 Glancing at all those READMEs, here's mine  contributing to the fray
